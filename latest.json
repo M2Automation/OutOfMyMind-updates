@@ -1,11 +1,11 @@
 {
-  "version": "0.0.74",
-  "notes": "v0.0.0.74 — Out of My Mind",
+  "version": "0.0.75",
+  "notes": "v0.0.0.75 — Out of My Mind",
   "pub_date": "2026-05-22T00:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVURFY0R3BBdUora0NxcmVpQjJ2VmxDcWtycS9DSUNxQXhRUlI4TTFvV2RsU09PYXBXK0pSN0pIcEw0OEJRNWtQc2dBTEthMjEyem5IS3BveUhpNG5uYkxKSjZBNkZsZGdRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5NTAwMjQ4CWZpbGU6T3V0IG9mIE15IE1pbmRfMC4wLjc0X3g2NC1zZXR1cC5leGUKb0ZEbUg0RnVWRVA2d2hFN3hMMmxTQzhoMzB0MjJzazNybWhmUnlsYVN5MmhLQnAxamx5S0lERXRKNFJKZTJaR1YxNWxFVkF6eTlBTFFUZGE5a3d3QXc9PQo=",
-      "url": "https://github.com/M2Automation/OutOfMyMind/releases/download/v0.0.0.74/Out.of.My.Mind_0.0.74_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVURFY0R3BBdUora0NnMmJLNmI1V2krbTBSaUNPOEd3eUxvOWpWVmZ1K0x3aGNuMWFEYm9wSkhsRzBtdTFITFQzdWI4dlJxcDNQUHpKb0NheXFsVkI5bnZOcFgrY0hBb0FZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5NTExOTQxCWZpbGU6T3V0IG9mIE15IE1pbmRfMC4wLjc1X3g2NC1zZXR1cC5leGUKUU81S2JEYVN6RDhlQnJWbkRuc0RqNTdud0lsUFFXU3owd1IyemIrc3dPVVd6cmQwZDczbnZvY3F4UVB1b3o2VlRIYkZBY1VnajlyMnNhZzIrQ1hNQWc9PQo=",
+      "url": "https://github.com/M2Automation/OutOfMyMind-updates/releases/download/v0.0.0.75/Out.of.My.Mind_0.0.75_x64-setup.exe"
     }
   }
 }
